@@ -1,8 +1,8 @@
 ---
 author: ISRE - Slava Maslennikov
-title: 'GoCD PoC: Why Jenkins Won'
+title: 'GoCD PoC aka Why Jenkins Won'
 ---
-# GoCD PoC: Why Jenkins Won
+# GoCD PoC aka Why Jenkins Won
 ## ISRE Team
 ## October 10th 2017
 
@@ -34,6 +34,6 @@ Continuous Integration/Continuous Delivery tool
 ---
 ## I'd like to thank the Academy
 
-Don't forget to present pizza to your local ISRE team!
+Thanks to Joshua J. Lai for struggling through most of the PoC
 
 Smoke stoges erry day
