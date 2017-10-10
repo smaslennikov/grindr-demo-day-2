@@ -1,4 +1,4 @@
-# Grindr Demo Day - October 10th, 2017: GoCD PoC: Why Jenkins Won [![Build Status](https://travis-ci.org/smaslennikov/grindr-demo-day-2.svg)](https://travis-ci.org/smaslennikov/grindr-demo-day-2)
+# Grindr Demo Day - October 10th, 2017: GoCD PoC aka Why Jenkins Won [![Build Status](https://travis-ci.org/smaslennikov/grindr-demo-day-2.svg)](https://travis-ci.org/smaslennikov/grindr-demo-day-2)
 
 I'd like to thank the academy.
 
