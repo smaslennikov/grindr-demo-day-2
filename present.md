@@ -41,6 +41,6 @@ Continuous Integration / Continuous Delivery tools
 ---
 # I'd like to thank the Academy
 
-Thanks to Joshua J. Lai for struggling through most of the PoC
+Thanks to Joshua J. Lai
 
 Smoke stoges erry day
