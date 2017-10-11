@@ -7,32 +7,39 @@ title: 'GoCD PoC aka Why Jenkins Won'
 ## October 10th 2017
 
 ---
-## GoCD & Jenkins
+# GoCD & Jenkins
 
-Continuous Integration/Continuous Delivery tool
+Continuous Integration / Continuous Delivery tools
 
 ---
-## Proof of Concept requirements
+# Proofs of Concept
+
+- ability to abandon
+- have requirements
+- fail/succeed strongly
+
+---
+# PoC requirements
 
 - pipelines as code
 - secret storage
-- stability and LTS
+- stability and long term support
 
 ---
-## Proof of Concept failures
+# PoC failures
 
 - can't store SSH keys/secret variables
 - pipeline prompt enforcement
 - few users, few problem-solutions
 
 ---
-## Proof of Concept outcome
+# PoC outcome
 
 - failure is success
 - Jenkins PoC
 
 ---
-## I'd like to thank the Academy
+# I'd like to thank the Academy
 
 Thanks to Joshua J. Lai for struggling through most of the PoC
 
