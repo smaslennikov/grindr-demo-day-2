@@ -14,19 +14,19 @@ Continuous Integration / Continuous Delivery tools
 ---
 # Proofs of Concept
 
-- ability to abandon
 - have requirements
+- ability to abandon
 - fail/succeed strongly
 
 ---
-# PoC requirements
+# GoCD PoC requirements
 
 - pipelines as code
 - secret storage
 - stability and long term support
 
 ---
-# PoC failures
+# GoCD PoC failures
 
 - can't store SSH keys/secret variables
 - pipeline prompt enforcement
